@@ -1,1 +1,1 @@
-# odin-recipes
+This is the test for a recipes websites to see what I've learned so far in the Odin Project.
